@@ -19,6 +19,7 @@ Login with your wallet to [mouserBoard](https://mouserboard.com), copy the code 
 #### !chaseTheLeaders eth_address ####
 
 Some players summoned way many wizards more than others, thus having very high cumulative power and potentially creating game inequality. This can be balanced by lower ranking players if they duel altogether wizards owned by the top players.
+
 !chaseTheLeaders 0x123...9 finds your best wizard, identifies the cluster of top players to fight, and finally matches your wizard with 5 of theirs in the same power range. 
 
 #### !ownerRank eth_address ####

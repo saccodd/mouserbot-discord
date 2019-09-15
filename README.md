@@ -1,7 +1,7 @@
 # mouserBot for Discord #
 
 mouserBot has been developed during the [Cheeze Wizards + Coinlist hackathon](https://coinlist.co/build/cheezewizards).
-This proof of concept implements 4 features that will engage Cheeze Wizards players in a more effective way during  summer 2019 tournament. More features will come!
+This proof of concept implements 4 features that will engage Cheeze Wizards players on Discord in a more effective way during summer 2019 tournament. More features will come!
 
 ### mouserBoard ###
 
@@ -9,7 +9,7 @@ mouserBot is part of [mouserBoard](https://mouserboard.com), the communication p
 
 Simply login with your wallet. Your in-game reputation is built-in and will let you access a new universe of features, thanks to interoperability. 
 
-### Features ###
+### Bot features ###
 
 #### !claim mouserboard_code ####
 
@@ -33,7 +33,7 @@ Some players summoned way many wizards more than others, thus having very high c
 
 Following video showcases the features mentioned above: [demo video](https://youtu.be/zQKLtE-mhJs)
 
-You can also test the features on our Discord testing server: [testing server](https://discord.gg/MQEhK2H)
+You can also test them on our Discord server: [test server](https://discord.gg/MQEhK2H)
 
 ### Pre-requirements for bot installation ###
 

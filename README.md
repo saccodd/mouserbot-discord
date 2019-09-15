@@ -1,7 +1,7 @@
 # mouserBot for Discord #
 
 mouserBot has been developed during the [Cheeze Wizards + Coinlist hackathon](https://coinlist.co/build/cheezewizards).
-This proof of concept implements 4 features that will engage Cheeze Wizards players on Discord in a more effective way during summer 2019 tournament. More features will come!
+This proof of concept implements 4 features that will engage [Cheeze Wizards](https://www.cheezewizards.com/) players on Discord in a more effective way during summer 2019 tournament. More features will come!
 
 ### mouserBoard ###
 
@@ -13,7 +13,7 @@ Simply login with your wallet. Your in-game reputation is built-in and will let 
 
 #### !claim mouserboard_code ####
 
-Cheeze Wizards is a worldwide game where two players must be online during the same time window to duel each other. 
+[Cheeze Wizards](https://www.cheezewizards.com/) is a worldwide game where two players must be online during the same time window to duel each other. 
 Login with your wallet to [mouserBoard](https://mouserboard.com), copy the code you find in the header, and type it in any Discord channel where mouserBot is invited. Your Discord user will get verified and mouserBot will signal your address online as soon as you login to Discord. 
 
 #### !chaseTheLeaders eth_address ####

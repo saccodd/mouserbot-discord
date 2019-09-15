@@ -1,7 +1,7 @@
-# mouserBot for Discord #
+# mouserBot, by mouserBoard #
 
-mouserBot has been developed during the [Cheeze Wizards + Coinlist hackathon](https://coinlist.co/build/cheezewizards).
-This proof of concept implements 4 features that will engage [Cheeze Wizards](https://www.cheezewizards.com/) players on Discord in a more effective way during summer 2019 tournament. More features will come!
+mouserBot is a bot developed during the [Cheeze Wizards + Coinlist hackathon](https://coinlist.co/build/cheezewizards).
+This proof of concept implements 4 features that will engage [Cheeze Wizards](https://www.cheezewizards.com/) players on Discord in a more effective way during summer 2019 tournament. It can also be used by individual groups of players coordinating on their own Discord servers.
 
 ### mouserBoard ###
 

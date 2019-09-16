@@ -13,7 +13,7 @@ Simply login with your wallet. Your in-game reputation is built-in and will let 
 
 #### !claim mouserboard_code ####
 
-[Cheeze Wizards](https://www.cheezewizards.com/) is a worldwide game where two players must be online during the same time window to duel each other. 
+In [Cheeze Wizards](https://www.cheezewizards.com/) two players must be online during the same time window to duel each other. 
 Login with your wallet to [mouserBoard](https://mouserboard.com), copy the code you find in the header, and type it in any Discord channel where mouserBot is invited. Your Discord user will get verified and mouserBot will signal your address online as soon as you login to Discord. 
 
 #### !chaseTheLeaders eth_address ####

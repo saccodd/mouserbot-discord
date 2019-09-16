@@ -32,7 +32,7 @@ Some players summoned way many wizards more than others, thus having very high c
 
 ### Demo ###
 
-Following video showcases the features mentioned above: [demo video](https://youtu.be/zQKLtE-mhJs)
+Following video showcases the features mentioned above: [demo video](https://youtu.be/AtyHKFxin40)
 
 You can also test them on our Discord server: [test server](https://discord.gg/MQEhK2H)
 
